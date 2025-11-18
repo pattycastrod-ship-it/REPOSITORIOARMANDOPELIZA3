@@ -72,4 +72,4 @@ Actualizaciones	Mantener dependencias (libs de hashing, frameworks) al día.	Dev
 
 \- Cumplimiento de política de rotación (≥ 95 % de usuarios renovados a tiempo).
 
-Si quieres profundizar en alguna de estas áreas (por ejemplo, el flujo de MFA o la configuración de argon2id), avísame y lo desarrollamos. ¡Estoy aquí para ayudarte a que el registro sea seguro y fluido!
+
