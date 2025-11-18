@@ -1,4 +1,5 @@
-﻿Propuesta de mantenimiento para el mecanismo de contraseñas en el registro de usuarios
+Tipos de mantenimientos recomendados serian PERFECTIVO Y ADAPTATIVO 
+ Propuesta de mantenimiento para el mecanismo de contraseñas en el registro de usuarios
 
 1\. objetivo
 
@@ -71,5 +72,6 @@ Actualizaciones	Mantener dependencias (libs de hashing, frameworks) al día.	Dev
 \- Tiempo medio de detección de intentos de fuerza bruta (< 5 min).
 
 \- Cumplimiento de política de rotación (≥ 95 % de usuarios renovados a tiempo).
+
 
 
