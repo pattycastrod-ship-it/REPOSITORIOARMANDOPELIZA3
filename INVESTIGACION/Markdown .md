@@ -92,9 +92,8 @@ Este proyecto está bajo la licencia MIT – ver el archivo LICENSE.
 
 \- Permite incluir \*código, listas, enlaces e imágenes\* sin complicarse.  
 
-Puedes copiar este bloque en un archivo llamado README.md y ver cómo se ve en GitHub. ¡Listo para probar!
 
-[17/11 13:57] Meta AI: Ventajas de usar Markdown en combinación con GitHub
+
 
 1\. Integración perfecta: GitHub renderiza automáticamente los archivos Markdown, lo que significa que puedes ver el contenido formateado directamente en la página del repositorio.
 
@@ -127,5 +126,6 @@ Ejemplos de uso en GitHub
 4\. Colaboración: Utiliza Markdown para colaborar con otros en la documentación y el desarrollo de tu proyecto.
 
 En resumen, usar Markdown en combinación con GitHub te permite crear documentación legible y efectiva, colaborar con otros de manera eficiente y mejorar la productividad.
+
 
 
