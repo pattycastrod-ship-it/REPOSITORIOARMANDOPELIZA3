@@ -36,7 +36,7 @@ Ventajas
 
 En resumen, Markdown es un lenguaje de marcado ligero y fácil de usar que se utiliza en proyectos de software para documentar, comunicar y colaborar de manera efectiva.
 
-[17/11 13:57] Meta AI: Ejemplo práctico: README.md de un proyecto sencillo
+ejemplo
 
 📚 Mi Librería de Tareas
 
@@ -127,4 +127,5 @@ Ejemplos de uso en GitHub
 4\. Colaboración: Utiliza Markdown para colaborar con otros en la documentación y el desarrollo de tu proyecto.
 
 En resumen, usar Markdown en combinación con GitHub te permite crear documentación legible y efectiva, colaborar con otros de manera eficiente y mejorar la productividad.
+
 
